@@ -1,0 +1,22 @@
+TUGAS WEB PURE HTML:
+
+Perorangan
+Membuat sebuah website dengan tema berdasarkan minat dan bakat (co: company profile; product catalogue; blog pribadi - traveling, kesehatan, curhat, cerita,  philosophy, dsb; web tematik - photography, automotif, portal berita, kuliner; dan sebagainya)
+Memiliki minimal 5 halaman
+Setiap file .html diberikan keterangan identitas diri dalam komentar <!-- -->
+mempunyai halaman index sebagai halaman utama
+semua file (baik file html dan file multimedia jika ada) disimpan dalam folder (nim sebagai nama folder) dan di arsipkan (.rar atau .zip)
+SEMUA file Website MAKSIMAL mempunyai ukuran TOTAL 20 MB (Jika file melebihi 20MB maka yang dikumpulkan adalah satu dokumen .txt yang isinya link menuju cloud storage, co: googledrive. jangan lupa izin aksesnya)
+contoh isi folder terlampir
+PENILAIAN:
+
+Penggunaan tag html yang tepat dan efisien
+User Interface yang baik (design)
+User Experience yang baik (alur dan kerangka web)
+Kesesuaian dengan tema yang dipilih
+Konten web yang baik
+DUEDATE: Sabtu, 28 November 2020 Pukul 23.59
+
+Catatan Tambahan:
+
+DIsarankan untuk menggunakan sumber media (gambar, audio, video) dari internet langsung untuk menghemat ukuran file
